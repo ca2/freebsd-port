@@ -2,3 +2,7 @@
 	path = base
 	url = ../base-port-freebsd
 	branch = main
+[submodule "common-port"]
+	path = common-port
+	url = ../common-port
+	branch = main
