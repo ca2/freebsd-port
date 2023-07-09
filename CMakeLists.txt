@@ -7,3 +7,14 @@ if(INCLUDE_AUDIO)
     add_subdirectory(base/id3lib)
 
 endif()
+
+
+
+if(INCLUDE_UNAC)
+
+    add_subdirectory(base/unac)
+
+endif()
+
+
+
