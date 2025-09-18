@@ -17,4 +17,10 @@ if(INCLUDE_UNAC)
 endif()
 
 
+if(${DESKTOP_AMBIENT})
+
+   add_subdirectory(graphics3d/glad)
+
+
+endif()
 
