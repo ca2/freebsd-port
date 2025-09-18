@@ -6,10 +6,6 @@
 	path = common
 	url = ../common-port
 	branch = main
-[submodule "graphics3d-port"]
-	path = graphics3d-port
-	url = ../graphics3d-port
-	branch = main
 [submodule "graphics3d"]
 	path = graphics3d
 	url = ../graphics3d-port
