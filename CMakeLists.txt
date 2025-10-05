@@ -20,6 +20,7 @@ endif()
 if(${DESKTOP_AMBIENT})
 
    add_subdirectory(graphics3d/glad)
+   add_subdirectory(graphics3d/ktx)
 
 
 endif()
