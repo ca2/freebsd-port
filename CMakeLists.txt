@@ -17,7 +17,7 @@ if(INCLUDE_UNAC)
 endif()
 
 
-if(${DESKTOP_AMBIENT})
+if(${DESKTOP_AMBIENT} AND ${INCLUDE_GPU})
 
    add_subdirectory(graphics3d/glad)
    add_subdirectory(graphics3d/ktx)
